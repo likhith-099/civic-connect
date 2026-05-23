@@ -162,8 +162,4 @@ Frontend (`frontend/package.json`)
 - `npm run start` - run production server
 - `npm run lint` - lint code
 
-## Contributing
-1. Create a feature branch
-2. Make focused, testable changes
-3. Verify frontend and backend both run locally
-4. Open a PR with context, screenshots (if UI), and testing notes
+
